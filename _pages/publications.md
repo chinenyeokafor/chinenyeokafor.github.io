@@ -1,3 +1,20 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+<!-- {% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
+
 
 
 ### Conference Publications
@@ -17,4 +34,5 @@ arXiv, 2024.
 *“An Industry Interview Study of Software Signing for Supply Chain Security”*  [PDF](https://arxiv.org/pdf/2406.08198)  
 Kelechi G. Kalu, Tanya Singla, **Chinenye Okafor**, Santiago Torres-Arias, James C. Davis
 arXiv, 2024.
+
 
