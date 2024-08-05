@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
- I am a Ph.D. student at Purdue University's Electrical and Computer Engineering department in the [Trustworthy Software Ecosystems Lab](https://tselab.github.io/), where I work on securing software supply chains under the guidance of Dr. [Santiago Torres-Aria](https://badhomb.re/)
+ I am a Ph.D. student at Purdue University's Electrical and Computer Engineering department in the [Trustworthy Software Ecosystems Lab](https://tselab.github.io/), where I work on securing software supply chains under the guidance of Dr. [Santiago Torres-Arias](https://badhomb.re/)
 
 
 
