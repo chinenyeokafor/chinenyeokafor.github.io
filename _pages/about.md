@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Chinenye Okafor"
 author_profile: true
 redirect_from: 
   - /about/
