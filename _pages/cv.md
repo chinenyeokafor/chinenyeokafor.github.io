@@ -1,6 +1,6 @@
 ---
+layout: archive
 title: CV
-layout: single
 permalink: /cv/
 ---
 
