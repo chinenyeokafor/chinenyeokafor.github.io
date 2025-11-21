@@ -22,7 +22,7 @@ redirect_from:
 
 - **May 2025:** Excited to join Confidential Consortium Framework team at Microsoft Azure Research for a research internship!
 - **Jan 2025:** A paper I collaborated on, *“An Industry Interview Study of Software Signing for Supply Chain Security”*, was accepted to USENIX Security 2025! [![PDF](https://img.icons8.com/ios-filled/20/000000/pdf.png)](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-232-kalu.pdf)
-- **Nov 2024:** Presented *Trends and Ecosystem Dynamics in Sigstore* [![YouTube](ttps://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg)](https://www.youtube.com/watch?v=LHIQwwo7JAs&list=PLM6mY5TOhY1E02_fQWqfQk_gMRHHtX0q6) at SigstoreCon ’24!
+- **Nov 2024:** Presented *Trends and Ecosystem Dynamics in Sigstore* at SigstoreCon ’24! [![YouTube](https://img.icons8.com/color/24/000000/youtube-play.png)](https://www.youtube.com/watch?v=LHIQwwo7JAs&list=PLM6mY5TOhY1E02_fQWqfQk_gMRHHtX0q6)
 
 - **Sept 2024:** Awarded the Dan Kohn Scholarship for KubeCon + CloudNativeCon North America 2024. Thanks, CNCF!
 - **Aug 2024:** Awarded the Real World Crypto 2024 Travel Grant. Thanks, RWC & sponsors!
