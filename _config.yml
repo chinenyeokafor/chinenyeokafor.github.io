@@ -270,6 +270,22 @@ defaults:
       author_profile: true
       share: true
 
+  - scope:
+      path: ""
+      type: cv
+    values:
+      layout: cv
+      author_profile: true
+      share: true
+
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: contact
+      author_profile: true
+      share: true
+
 
 # Sass/SCSS
 sass:
