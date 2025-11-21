@@ -1,9 +1,7 @@
 ---
 layout: archive
-# title: Contact
+title: Contact
 permalink: /contact/
 ---
-
-# Contact
 
 My preferred contact is email: [okafor1@purdue.edu](mailto:okafor1@purdue.edu)
