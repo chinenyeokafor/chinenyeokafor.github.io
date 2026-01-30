@@ -14,6 +14,7 @@ redirect_from:
 ## Service
 
 - Program Committe, ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses 2025 (SCORED'25)
+- Mentoring-Meet Coordinator, IEEE Region 4 Young Professionals (2025 - present)
 - Treasurer, Engineering Academic Career Club, College of Engineering, Purdue University (2025 - present).
 - Program Committe, Linux Foundation SigstoreCon 2024: Supply Chain Day
 - Judge, Purdue 2024 SURF Symposium posters
